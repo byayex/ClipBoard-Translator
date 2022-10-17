@@ -1,0 +1,61 @@
+﻿<Window x:Class="Translator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Translator"
+        mc:Ignorable="d"
+        Title="Clipboard Translator" 
+        Height="500" 
+        Width="450"
+        ResizeMode="NoResize">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center">
+            <Label Content="Translate to:" 
+               FontSize="18"
+                   HorizontalAlignment="Center"/>
+            <ComboBox Width="200"
+                  Height="35" 
+                  x:Name="translate_mode"
+                  FontSize="18">
+                <ComboBoxItem Content="English" IsSelected="True"/>
+                <ComboBoxItem Content="Korean"/>
+                <ComboBoxItem Content="Japanese"/>
+            </ComboBox>
+            <CheckBox Content="Use Clipboard as Input" 
+                  Height="35" 
+                  x:Name="clipboard_input"
+                  IsChecked="True" 
+                  FontSize="18"
+                  Margin="10"/>
+            <CheckBox Content="Change Clipboard to Output!" 
+                  Height="35" 
+                  x:Name="clipboard_output"
+                  IsChecked="True" 
+                  FontSize="18"
+                  Margin="10"/>
+            <Button Content="Start Translation! | Alt + T" 
+                Width="225"
+                Click="Start_Translation"
+                Height="35" 
+                FontSize="18" />
+            <Label Content="Input:" 
+               HorizontalAlignment="Center"
+               FontSize="18"/>
+            <TextBox x:Name="input" 
+                 Height="70"
+                 FontSize="18"
+                 MaxLines="100"
+                 Width="400"/>
+            <Label Content="Output:" 
+               HorizontalAlignment="Center"
+               FontSize="18"/>
+            <TextBox x:Name="output" 
+                 Height="70"
+                 FontSize="18"
+                 MaxLines="100"
+                 IsReadOnly="True"
+                 Width="400"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,82 @@
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\Translator.exe.config
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\Translator.exe
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\Translator.pdb
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\obj\Debug\Translator.csproj.AssemblyReference.cache
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\obj\Debug\Translator.csproj.SuggestedBindingRedirects.cache
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\obj\Debug\MainWindow.g.cs
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\obj\Debug\App.g.cs
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\obj\Debug\Translator_MarkupCompile.cache
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\obj\Debug\Translator_MarkupCompile.lref
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\obj\Debug\MainWindow.baml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\obj\Debug\Translator.g.resources
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\obj\Debug\Translator.Properties.Resources.resources
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\obj\Debug\Translator.csproj.GenerateResource.cache
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\obj\Debug\Translator.csproj.CoreCompileInputs.cache
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\obj\Debug\Translator.exe
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\obj\Debug\Translator.pdb
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\obj\Debug\Translator.csproj.CopyComplete
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\GTranslate.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.Buffers.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.Memory.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.Text.Json.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.ValueTuple.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\GTranslate.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.Buffers.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.Memory.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.Text.Json.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator\bin\Debug\System.ValueTuple.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\Translator.exe.config
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\Translator.exe
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\Translator.pdb
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\GTranslate.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.Buffers.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.Memory.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.Text.Json.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.ValueTuple.dll
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\GTranslate.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.Buffers.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.Memory.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.Text.Json.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\bin\Debug\System.ValueTuple.xml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\obj\Debug\Translator.csproj.AssemblyReference.cache
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\obj\Debug\Translator.csproj.SuggestedBindingRedirects.cache
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\obj\Debug\MainWindow.g.cs
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\obj\Debug\App.g.cs
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\obj\Debug\Translator_MarkupCompile.cache
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\obj\Debug\Translator_MarkupCompile.lref
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\obj\Debug\MainWindow.baml
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\obj\Debug\Translator.g.resources
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\obj\Debug\Translator.Properties.Resources.resources
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\obj\Debug\Translator.csproj.GenerateResource.cache
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\obj\Debug\Translator.csproj.CoreCompileInputs.cache
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\obj\Debug\Translator.csproj.CopyComplete
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\obj\Debug\Translator.exe
+C:\Users\luca-\Desktop\Projects\C#\Aufträge\Translator - 150\obj\Debug\Translator.pdb
